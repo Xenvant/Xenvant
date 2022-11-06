@@ -3,7 +3,6 @@
 - I'm a developer who's worked in the Game Exploiting field!
 - I also do a bunch of game development mainly on the Roblox platform!
 - I have worked on many projects like XenApp (Private), Kaizoku Studios, etc.
-- If you want to contact me, reach me on Discord - <strong>Xenvant#0001</strong>
 
 ### Languages and Tools:
 
