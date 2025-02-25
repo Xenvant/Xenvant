@@ -23,10 +23,3 @@
 
 ### Contact Me:
 You can view [my website](https://xenvant.dev/) to find more information about me and my contact details!
-
-### Github Statistics:
-
-[![Xenvant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Xenvant&show_icons=true&theme=dark#gh-dark-mode-only)](https://xenvant.dev#gh-dark-mode-only)
-[![Xenvant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Xenvant&show_icons=true&theme=default#gh-light-mode-only)](https://xenvant.dev#gh-light-mode-only)
-
-[website]: https://xenvant.dev/
